@@ -25,10 +25,10 @@ author:
   name             : "Temesgen Tizazu"
   pronouns         : # example: "she/her"  
   bio              : "Dreams without goals are just dreams"
-  location         : "Earth"
+  location         : "Ethiopia"
   employer         : "Bahir Dar University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dctome.come@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : in/temesgen-tizazu
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : #"UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
